@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">80754773807-2r1aijdcc1h8p4ck4ti1hhl9atp5h5ie.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">80754773807</string>
+    <string name="google_api_key" translatable="false">AIzaSyAoPP9dBuaJhv7XOAqZNy1KRuG9F-gP2-M</string>
+    <string name="google_app_id" translatable="false">1:80754773807:android:138ca103a530b1d3249bda</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAoPP9dBuaJhv7XOAqZNy1KRuG9F-gP2-M</string>
+    <string name="google_storage_bucket" translatable="false">fotografpaylasma-28303.appspot.com</string>
+    <string name="project_id" translatable="false">fotografpaylasma-28303</string>
+</resources>
